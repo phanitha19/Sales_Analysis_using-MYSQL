@@ -1,15 +1,15 @@
-# Sales Analysis using MYSQL.
-#🧠 Objective
+ # ${\color{red} Sales\ Analysis\ using\ MySQL}$
+ # 🧠 Objective
 -Analyze sales data to identify trends, performance metrics, and opportunities for business growth.
 
-#🛠️ Tools Used
+# 🛠️ Tools Used
 -SQL: For data extraction, transformation, and analysis
 
-#MySQL / PostgreSQL (specify whichever used): SQL execution environment
+-MySQL / PostgreSQL (specify whichever used): SQL execution environment
 
 -Excel / Google Sheets (if used): Initial data cleaning or visualization
 
-#📋 Steps Included
+# 📋 Steps Included
 -Imported and cleaned raw sales data
 
 -Created relational database schema (tables, keys)
@@ -18,7 +18,7 @@
 
 -Generated analytical reports and summary tables
 
-#📊 Analysis Included
+# 📊 Analysis Included
 -Sales by region, product, and time period
 
 -Revenue trends and top-performing products
@@ -27,7 +27,7 @@
 
 -Profitability and discount impact analysis
 
-#🔍 Key Insights
+# 🔍 Key Insights
 -Identified peak sales periods and high-revenue regions
 
 -Top products contributing to overall sales
@@ -36,7 +36,7 @@
 
 -Products affected by heavy discounting
 
-#✅ Conclusion
+# ✅ Conclusion
 -SQL-based analysis revealed actionable insights for improving sales strategy
 
 -Business can optimize inventory and marketing based on data-driven decisions
